@@ -1,0 +1,13 @@
+3 3
+
+1 1 N
+FFFF
+
+1 1 E
+FFFF
+
+1 1 S
+FF
+
+1 1 W
+FF
